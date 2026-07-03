@@ -20,7 +20,7 @@ this project demonstrates gradient descent on different functions:
 - includes optimization trail showing the path taken by gradient descent
 
 ### 3d gradient descent (sinusoidal surface)
-- function: (sin5x * cos5x) / 5
+- function: f(x, y) = (sin5x * cos5x) / 5
 - shows optimization on a non-convex surface
 
 
