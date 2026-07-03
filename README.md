@@ -29,14 +29,26 @@ this project demonstrates gradient descent on different functions:
 ## visualizations
 
 ### 1d gradient descent
-![1d gradient descent](https://i.imgur.com/GYZNXX4.png)
+
+<p align="center">
+  <img src="https://i.imgur.com/GYZNXX4.png" width="400"/>
+</p>
+
+---
 
 ### 2d gradient descent
-![2d gradient descent](https://i.imgur.com/tKSj9br.png)
+
+<p align="center">
+  <img src="https://i.imgur.com/tKSj9br.png" width="500"/>
+</p>
+
+---
 
 ### 3d gradient descent
-![3d gradient descent](https://i.imgur.com/6PaMxbN.png)
 
+<p align="center">
+  <img src="https://i.imgur.com/6PaMxbN.png" width="550"/>
+</p>
 ---
 
 ## what i learned
