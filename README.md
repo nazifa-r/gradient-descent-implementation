@@ -14,7 +14,7 @@ this project demonstrates gradient descent on different functions:
 - shows convergence to minimum at x = 0
 
 ### 2d gradient descent
-- function: f(x, y) = x^2 + y^2  
+- function: f(x, y) = x^2 + 5 * y^2  
 - shows convergence to global minimum at (0, 0)
 - includes contour plot (heatmap)  
 - includes optimization trail showing the path taken by gradient descent
