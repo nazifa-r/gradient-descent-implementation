@@ -31,7 +31,7 @@ this project demonstrates gradient descent on different functions:
 ### 1d gradient descent
 
 <p align="center">
-  <img src="https://i.imgur.com/GYZNXX4.png" width="400"/>
+  <img src="https://i.imgur.com/GYZNXX4.png" width="350"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@ this project demonstrates gradient descent on different functions:
 ### 2d gradient descent
 
 <p align="center">
-  <img src="https://i.imgur.com/tKSj9br.png" width="500"/>
+  <img src="https://i.imgur.com/tKSj9br.png" width="400"/>
 </p>
 
 ---
@@ -47,9 +47,9 @@ this project demonstrates gradient descent on different functions:
 ### 3d gradient descent
 
 <p align="center">
-  <img src="https://i.imgur.com/6PaMxbN.png" width="550"/>
+  <img src="https://i.imgur.com/6PaMxbN.png" width="400"/>
 </p>
----
+
 
 ## what i learned
 
@@ -71,4 +71,3 @@ project-folder/
 ├── main2d.py
 ├── main3d.py
 ├── README.md
-└── images/ (optional if you used local images)
